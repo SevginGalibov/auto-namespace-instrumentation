@@ -3,7 +3,17 @@ entries:
   auto-namespace-intrumentation-injector:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2025-08-01T19:30:43.450261+03:00"
+    created: "2025-09-02T14:16:24.200074+03:00"
+    description: Helm chart for namespace instrumentation controller
+    digest: 5f929ad7add252865f21b5198ae77283457b94a41b0762e7db9d9db1d3b88107
+    name: auto-namespace-intrumentation-injector
+    type: application
+    urls:
+    - https://sevgingalibov.github.io/auto-namespace-intrumentation-injector/auto-namespace-intrumentation-injector-0.0.6.tgz
+    version: 0.0.6
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2025-09-02T14:16:24.199716+03:00"
     description: Helm chart for namespace instrumentation controller
     digest: bcc53a7645fe9028799eff038a9e93a12491900278c52373b7add11110388452
     name: auto-namespace-intrumentation-injector
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://sevgingalibov.github.io/auto-namespace-intrumentation-injector/auto-namespace-intrumentation-injector-0.0.1.tgz
     version: 0.0.1
-generated: "2025-08-01T19:30:43.448947+03:00"
+generated: "2025-09-02T14:16:24.198675+03:00"
